@@ -2,16 +2,13 @@
     /* font-family: unset, serif, sans-serif; */
     font-family: cursive, serif, sans-serif;
 }
-h3 { 
-    color : purple;
+
 }
 .purple
 {
     color: red;
 }
-h3 {
-    font-family:Arial, Helvetica, sans-serif
-}
+
 li { 
     font-family:Arial, Helvetica, sans-serif
     font-style: italic;
@@ -27,7 +24,10 @@ body {
     margin: 20px;
 }
 .jumbotron {
-    background-image: url("image/korea.jpg");
+    background-image: url("image/background.jpeg");
    background-size: cover;
    padding: 32px;
+}
+.img-small {
+    width: 250px;
 }
